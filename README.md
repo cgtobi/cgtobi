@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Other accounts:
+
+<a rel="me" href="https://fosstodon.org/@cgtobi">Mastodon</a>
