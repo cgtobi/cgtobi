@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 Other accounts:
 
 <a rel="me" href="https://fosstodon.org/@cgtobi">Mastodon</a>
+<a rel="me" href="https://discordapp.com/users/287158507348819968">Discord</a>
